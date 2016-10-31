@@ -1,22 +1,20 @@
 {
-  "name": "inky",
-  "version": "1.3.7",
-  "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
+  "name": "inkypad",
+  "version": "0.1.0",
+  "description": "Inky`s fork for Kilogram emails",
   "author": {
-    "name": "ZURB",
-    "email": "foundation@zurb.com",
-    "url": "http://foundation.zurb.com"
+    "name": "rbsx",
+    "email": "",
+    "url": ""
   },
   "keywords": [
-    "ink",
-    "foundation",
+    "kilogram",
     "email",
     "template"
   ],
   "main": "index.js",
   "scripts": {
-    "test": "mocha --compilers js:babel-register",
-    "browser": "gulp browser"
+    "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
     "cheerio": "^0.20.0",
@@ -41,26 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zurb/inky.git"
+    "url": "git+https://github.com/rbsx/gulp-inkypad.git"
   },
   "bugs": {
-    "url": "https://github.com/zurb/inky/issues"
-  },
-  "license": "MIT",
-  "gitHead": "39a43c34a09e47a00146ca107c7f7d2e7e9a7f2c",
-  "homepage": "https://github.com/zurb/inky#readme",
-  "_id": "inky@1.3.7",
-  "_shasum": "1d1f837ba8213a2bec8414f4fa738d38a807d38e",
-  "_from": "inky@latest",
-  "_npmVersion": "3.9.6",
-  "_nodeVersion": "4.2.2",
-  "_npmUser": {
-    "name": "kbal11",
-    "email": "kball@zurb.com"
-  },
-  "dist": {
-    "shasum": "1d1f837ba8213a2bec8414f4fa738d38a807d38e",
-    "tarball": "https://registry.npmjs.org/inky/-/inky-1.3.7.tgz"
+    "url": "git+https://github.com/rbsx/gulp-inkypad/issues"
   },
   "maintainers": [
     {
